@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="{{asset('public/assets/vendors/animate.css/animate.min.css')}}">
     <link rel="stylesheet" href="{{asset('public/assets/vendors/jquery-scrollbar/jquery.scrollbar.css')}}">
     <link rel="stylesheet" href="{{asset('public/assets/vendors/fullcalendar/fullcalendar.min.css')}}">
+    <link rel="stylesheet" href="{{asset('public/assets/vendors/select2/css/select2.min.css')}}">
 
     <!-- App styles -->
     <link rel="stylesheet" href="{{asset('public/assets/css/app.min.css')}}">
@@ -52,6 +53,13 @@
     <script src="{{asset('public/assets/vendors/jquery-scrollLock/jquery-scrollLock.min.js')}}"></script>
 
     <script src="{{asset('public/assets/vendors/moment/moment.min.js')}}"></script>
+    <script src="{{asset('public/assets/vendors/select2/js/select2.full.min.js')}}"></script>
+
+    <script src="{{asset('public/assets/vendors/datatables/jquery.dataTables.min.js')}}"></script>
+    <script src="{{asset('public/assets/vendors/datatables-buttons/dataTables.buttons.min.js')}}"></script>
+    <script src="{{asset('public/assets/vendors/datatables-buttons/buttons.print.min.js')}}"></script>
+    <script src="{{asset('public/assets/vendors/jszip/jszip.min.js')}}"></script>
+    <script src="{{asset('public/assets/vendors/datatables-buttons/buttons.html5.min.js')}}"></script>
 
     <!-- App functions and actions -->
     <script src="{{asset('public/assets/js/app.min.js')}}"></script>

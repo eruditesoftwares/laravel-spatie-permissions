@@ -85,3 +85,35 @@
     top: .3rem;
     right: 1rem;
 }
+
+
+
+.dataTables_wrapper .table>thead>tr>th {
+    cursor: pointer;
+    background-color: #eff3f9;
+}
+
+label, output {
+    display: inline-block;
+    color: #131313;
+    font-weight: 500;
+}
+
+.table td, .table th {
+    padding: 1rem 1.5rem;
+    vertical-align: middle;
+    color: #404040;
+    border-top: 1px solid #f2f4f5;
+}
+
+
+
+
+.btn-table{
+        width: 2.3rem;
+    height: 2.3rem;
+}
+
+.select2-container {
+    z-index: 2000;
+}
